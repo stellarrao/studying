@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+	xmlns:context="http://www.springframework.org/schema/context"
+	xmlns:aop="http://www.springframework.org/schema/aop"
+	xsi:schemaLocation="http://www.springframework.org/schema/aop
+    http://www.springframework.org/schema/aop/spring-aop.xsd
+    http://www.springframework.org/schema/beans 
+    http://www.springframework.org/schema/beans/spring-beans.xsd
+    http://www.springframework.org/schema/context 
+    http://www.springframework.org/schema/context/spring-context.xsd">
+
+	<context:component-scan base-package="javaexercise.spring4.aspectoriented4" />
+	<aop:aspectj-autoproxy />
+	
+	<bean id="audience" class="javaexercise.spring4.aspectoriented4.Audience" />
+    <bean class="javaexercise.spring4.aspectoriented4.ConcertPerformance" />
+    <bean id="trackCounter" class="javaexercise.spring4.aspectoriented4.TrackCounter" />
+    <bean id="encoreableIntroducer" class="javaexercise.spring4.aspectoriented4.EncoreableIntroducer" />
+    <aop:config>
+    
+    <aop:aspect ref="audience">
+    <aop:pointcut id="performance" expression="execution(* javaexercise.spring4.aspectoriented4.Performance.perform(..))" />
+  <!--   <aop:before pointcut-ref="performance" method="silenceCellPhones" />
+    <aop:before pointcut-ref="performance" method="takeSeats" />
+    <aop:after-returning pointcut-ref="performance" method="applause" />
+    <aop:after-throwing pointcut-ref="performance" method="demandRefund" /> -->
+    <aop:around pointcut-ref="performance" method="watchPerformance" />
+    </aop:aspect>
+    
+    <aop:aspect ref="trackCounter">
+    <aop:pointcut expression="execution(* javaexercise.spring4.aspectoriented4.Performance.playTrack(int)) and args(trackNumber)" id="trackPlayed"/>
+    <aop:before pointcut-ref="trackPlayed" method="countTrack" />
+    </aop:aspect>
+    
+    <aop:aspect ref="encoreableIntroducer">
+    <aop:declare-parents types-matching="javaexercise.spring4.aspectoriented4.Performance+" 
+    implement-interface="javaexercise.spring4.aspectoriented4.Encoreable"
+    default-impl="javaexercise.spring4.aspectoriented4.DefaultEncoreable" />
+    </aop:aspect>
+    
+    </aop:config>
+</beans>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+xmlns:c = "http://www.springframework.org/schema/c"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.springframework.org/schema/beans
+ http://www.springframework.org/schema/beans/spring-beans.xsd
+ http://www.springframework.org/schema/context">
+ <!-- configuration details go here -->
+ <bean class="javaexercise.spring4.wiringbeans2.SgtPeppers"></bean>
+ <bean id="compactDisc" class="javaexercise.spring4.wiringbeans2.SgtPeppers"></bean>
+ <bean id="cdPlayer" class="javaexercise.spring4.wiringbeans2.CDPlayer">
+ <constructor-arg ref="compactDisc"></constructor-arg>
+ </bean>
+ <bean id="cdPlayer1" class="javaexercise.spring4.wiringbeans2.CDPlayer" c:cd-ref="compactDisc"></bean>
+ 
+ <bean id="compactDisc1" class="javaexercise.spring4.wiringbeans2.BlankDisc">
+ <constructor-arg value="Sgt. Pepper's Lonely Hearts Club Band"></constructor-arg>
+ <constructor-arg value="The Beatles"></constructor-arg>
+ </bean>
+ <bean id="compactDisc2" class="javaexercise.spring4.wiringbeans2.BlankDisc" c:_title="Sgt. Pepper's Lonely Hearts Club Band" c:_artist="The Beatles">
+ </bean>
+ <bean id="compactDisc3" class="javaexercise.spring4.wiringbeans2.BlankDisc" c:_0="Sgt. Pepper's Lonely Hearts Club Band" c:_1="The Beatles">
+ </bean>
+ 
+ <bean id="compactDisc4" class="javaexercise.spring4.wiringbeans2.BlankDisc">
+ <constructor-arg value="Sgt. Pepper's Lonely Hearts Club Band"></constructor-arg>
+ <constructor-arg value="The Beatles"></constructor-arg>
+<!--  <constructor-arg ><null /></constructor-arg> -->
+<constructor-arg>
+<list>
+<value>Sgt. Pepper's Lonely Hearts Club Band</value>
+<value>With a Little Help from My Friends</value>
+<value>Lucy in the Sky with Diamonds</value>
+<value>Getting Better</value>
+</list>
+</constructor-arg>
+ </bean>
+ 
+ <bean id="beatlesDiscography" class="soundsystem.Discography">
+ <constructor-arg value="The Beatles" />
+ <constructor-arg>
+ <list bean="sgtPeppers"></list>
+ <list bean="whiteAlbum"></list>
+ <list bean="hardDaysNight"></list>
+ <list bean="revolver"></list>
+ </constructor-arg>
+ </bean>
+ 
+</beans>

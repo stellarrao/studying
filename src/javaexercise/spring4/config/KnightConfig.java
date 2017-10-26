@@ -11,7 +11,8 @@ public class KnightConfig
     @Bean
     public Knight knight()
     {
-        return new BraveKnight(quest());
+        return null;
+        //return new BraveKnight(quest());
     }
 
     @Bean

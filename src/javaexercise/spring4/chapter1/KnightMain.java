@@ -9,8 +9,8 @@ public class KnightMain
 {
     public static void main(String[] args) throws Exception
     {
-//        wiredBasedXml();
-        wiredBasedJava();
+        wiredBasedXml();
+        //wiredBasedJava();
     }
     
     private static void wiredBasedXml()

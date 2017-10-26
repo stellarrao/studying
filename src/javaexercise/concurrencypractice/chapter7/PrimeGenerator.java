@@ -59,7 +59,7 @@ public class PrimeGenerator implements Runnable
     public static void main(String[] args)
     {
 
-        try
+        /*try
         {
             List<BigInteger> bigInteger = new PrimeGenerator().aSecondOfPrimes();
             for (BigInteger primeNumber : bigInteger)
@@ -70,6 +70,13 @@ public class PrimeGenerator implements Runnable
         } catch (InterruptedException e)
         {
             e.printStackTrace();
+        }*/
+        
+        BigInteger b = BigInteger.ONE;
+        b = b.nextProbablePrime();
+        while(b.compareTo(BigInteger.valueOf(100)) == -1) {
+            System.out.println(b);
+            b = b.nextProbablePrime();
         }
     }
 }

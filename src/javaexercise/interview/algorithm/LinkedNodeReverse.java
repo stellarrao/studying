@@ -1,4 +1,4 @@
-package javaexercise.interview.Algorithm;
+package javaexercise.interview.algorithm;
 
 class Node {
     //数据域
