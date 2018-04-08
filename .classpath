@@ -17,10 +17,20 @@
 	<classpathentry kind="lib" path="lib/objenesis-2.6.jar"/>
 	<classpathentry kind="lib" path="lib/spring-aop-4.3.7.RELEASE.jar"/>
 	<classpathentry kind="lib" path="lib/spring-beans-4.3.7.RELEASE.jar"/>
-	<classpathentry kind="lib" path="lib/spring-context-4.3.7.RELEASE.jar"/>
-	<classpathentry kind="lib" path="lib/spring-core-4.3.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring-context-4.3.7.RELEASE.jar" sourcepath="D:/JavaWork/Soft/mavenrepository/org/springframework/spring-context/4.3.7.RELEASE/spring-context-4.3.7.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="lib/spring-core-4.3.7.RELEASE.jar" sourcepath="D:/JavaWork/SourceCode/spring-jms-4.3.7.RELEASE-sources.jar"/>
 	<classpathentry kind="lib" path="lib/system-rules-1.0.0.jar"/>
 	<classpathentry kind="lib" path="lib/aspectjrt-1.8.10.jar"/>
 	<classpathentry kind="lib" path="lib/aspectjweaver-1.8.10.jar"/>
+	<classpathentry kind="lib" path="lib/algs4.jar"/>
+	<classpathentry kind="lib" path="lib/javaee-api-8.0.jar" sourcepath="D:/JavaWork/SourceCode/javaee-api-8.0-sources.jar"/>
+	<classpathentry kind="lib" path="lib/activemq-all-5.15.2.jar" sourcepath="D:/JavaWork/SourceCode/activemq-all-5.15.2-sources.jar"/>
+	<classpathentry kind="lib" path="lib/xstream-1.4.10.jar"/>
+	<classpathentry kind="lib" path="lib/httpcore-4.4.8.jar"/>
+	<classpathentry kind="lib" path="lib/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="lib/spring-jms-4.3.7.RELEASE.jar" sourcepath="D:/JavaWork/SourceCode/spring-jms-4.3.7.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="lib/jackson-databind-2.9.2.jar"/>
+	<classpathentry kind="lib" path="lib/jackson-core-2.9.2.jar"/>
+	<classpathentry kind="lib" path="lib/jackson-annotations-2.9.2.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

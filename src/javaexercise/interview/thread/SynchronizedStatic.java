@@ -29,7 +29,7 @@ class Shared
         }
         System.out.println("Ending from showStatic1 " + s + " " + x);
     }
-    
+
     synchronized void show(String s, int a)
     {
         x = a;
@@ -42,7 +42,7 @@ class Shared
         }
         System.out.println("Ending from show " + s);
     }
-    
+
     synchronized void show1(String s, int a)
     {
         x = a;
@@ -55,8 +55,26 @@ class Shared
         }
         System.out.println("Ending from show1 " + s);
     }
-}
 
+    public synchronized void synchronizedMethod()
+    {
+        System.out.println("begin calling synchronizedMethod...");
+        try
+        {
+            Thread.sleep(10 * 1000);
+        } catch (InterruptedException e)
+        {
+            e.printStackTrace();
+        }
+        System.out.println("finish calling synchronizedMethod...");
+    }
+
+    public synchronized static void generalMethod()
+    {
+        System.out.println("call generalMethod...");
+    }
+}
+ 
 class CustomThreadStatic extends Thread
 {
     Shared s;
@@ -141,7 +159,7 @@ class Foo implements Runnable
     public void Lock()
     {
         System.out.println(Thread.currentThread().getName());
-//        synchronized (this)
+        // synchronized (this)
         synchronized (Foo.class)
         {
             System.out.println("in block " + Thread.currentThread().getName());
@@ -156,14 +174,14 @@ public class SynchronizedStatic
     {
         Shared sh = new Shared();
         Shared sh1 = new Shared();
-        
+
         CustomThreadStatic th = new CustomThreadStatic(sh, "one");
         CustomThreadStatic1 th1 = new CustomThreadStatic1(sh, "two");
-        
-//        CustomThread2 t2 = new CustomThread2(sh, "one");
-//        CustomThread2 t1 = new CustomThread2(sh1, "two");
-//        CustomThread1 t1 = new CustomThread1(sh1, "two");
-        
+
+        // CustomThread2 t2 = new CustomThread2(sh, "one");
+        // CustomThread2 t1 = new CustomThread2(sh1, "two");
+        // CustomThread1 t1 = new CustomThread1(sh1, "two");
+
     }
 
     private static void testFoo()
@@ -184,9 +202,41 @@ public class SynchronizedStatic
 
     }
 
+    private static void testSynchronizedGeneralMethod()
+    {
+        final Shared shared = new Shared();
+
+        Thread t1 = new Thread()
+        {
+            public void run()
+            {
+                shared.synchronizedMethod();
+            }
+        };
+
+        Thread t2 = new Thread()
+        {
+            public void run()
+            {
+                shared.generalMethod();
+            }
+        };
+
+        t1.start();
+        try
+        {
+            Thread.sleep(100);
+        } catch (InterruptedException e)
+        {
+            e.printStackTrace();
+        }
+        t2.start();
+    }
+
     public static void main(String[] args)
     {
-         testShared();
-//        testFoo();
+        // testShared();
+        // testFoo();
+        testSynchronizedGeneralMethod();
     }
 }
