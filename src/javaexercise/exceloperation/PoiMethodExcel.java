@@ -26,16 +26,20 @@ import org.apache.poi.ss.util.CellUtil;
 import org.apache.poi.xssf.streaming.SXSSFWorkbook;
 import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 
+import com.monitorjbl.xlsx.StreamingReader;
+
 public class PoiMethodExcel
 {
     public static void main(String[] args)
     {
-        // new PoiMethodExcel().readExcel();
-        // new PoiMethodExcel().readExcelOfxlsx();
-//        new PoiMethodExcel().writeExcel();
         long startTime = System.currentTimeMillis();
-        new PoiMethodExcel().excel2007AboveOperateOld();
-//        new PoiMethodExcel().excel2007AboveOperate();
+        // new PoiMethodExcel().readExcel();
+//        new PoiMethodExcel().readExcelOfxlsx();
+        new PoiMethodExcel().readExcelOfxlsxNew();
+        // new PoiMethodExcel().writeExcel();
+
+        // new PoiMethodExcel().excel2007AboveOperateOld();
+        // new PoiMethodExcel().excel2007AboveOperate();
         long endTime = System.currentTimeMillis();
         System.out.println("程序运行时间: " + (endTime - startTime) + "ms");
     }
@@ -93,7 +97,7 @@ public class PoiMethodExcel
 
     public void readExcelOfxlsx()
     {
-        File file = new File("D:\\t_code_carrier.xlsx");
+        File file = new File("D:\\BJS0017.xlsx");
 
         if (!file.exists())
         {
@@ -143,6 +147,30 @@ public class PoiMethodExcel
         }
     }
 
+    public void readExcelOfxlsxNew()
+    {
+        try (InputStream in = new FileInputStream("D:\\BJS0017.xlsx");
+                Workbook workbook = StreamingReader.builder().rowCacheSize(1000).bufferSize(4096).open(in))
+        {
+            for (Sheet sheet : workbook)
+            {
+                System.out.println(sheet.getSheetName());
+                for (Row r : sheet)
+                {
+                    for (Cell c : r)
+                    {
+                        System.out.print(c.getStringCellValue() + "\t");
+                    }
+
+                    System.out.println();
+                }
+            }
+        }
+        catch(Exception ex) {
+            
+        }
+    }
+
     public void writeExcel()
     {
 
@@ -175,14 +203,14 @@ public class PoiMethodExcel
         }
     }
 
-    public void excel2007AboveOperateOld() 
+    public void excel2007AboveOperateOld()
     {
         try
         {
-            //XSSFWorkbook workbook = new XSSFWorkbook(new FileInputStream(new File(filePath)));
+            // XSSFWorkbook workbook = new XSSFWorkbook(new FileInputStream(new File(filePath)));
             XSSFWorkbook workbook = new XSSFWorkbook();
             // 获取第一个表单
-            //Sheet first = workbook.getSheetAt(0);
+            // Sheet first = workbook.getSheetAt(0);
             Sheet first = workbook.createSheet("0");
             for (int i = 0; i < 100000; i++)
             {
@@ -198,12 +226,12 @@ public class PoiMethodExcel
                         // 数据
                         if (j == 0)
                         {
-                            //row.createCell(j).setCellValue(String.valueOf(i));
-                             CellUtil.createCell(row, j, String.valueOf(i));
+                            // row.createCell(j).setCellValue(String.valueOf(i));
+                            CellUtil.createCell(row, j, String.valueOf(i));
                         } else
                         {
-                            //row.createCell(j).setCellValue(String.valueOf(Math.random()));
-                             CellUtil.createCell(row, j, String.valueOf(Math.random()));
+                            // row.createCell(j).setCellValue(String.valueOf(Math.random()));
+                            CellUtil.createCell(row, j, String.valueOf(Math.random()));
                         }
 
                     }
@@ -211,8 +239,8 @@ public class PoiMethodExcel
             }
             // 写入文件
             SimpleDateFormat df = new SimpleDateFormat("yyyyMMddHHmmss");
-            FileOutputStream out = new FileOutputStream("D:\\workbook" + df.format(new Date()) +".xlsx");
-            
+            FileOutputStream out = new FileOutputStream("D:\\workbook" + df.format(new Date()) + ".xlsx");
+
             workbook.write(out);
             out.close();
             workbook.close();
@@ -222,35 +250,41 @@ public class PoiMethodExcel
             e.printStackTrace();
         }
     }
-    
-    public  void excel2007AboveOperate() {
-        
+
+    public void excel2007AboveOperate()
+    {
+
         try
         {
-            //XSSFWorkbook workbook1 = new XSSFWorkbook(new FileInputStream(new File(filePath)));
+            // XSSFWorkbook workbook1 = new XSSFWorkbook(new FileInputStream(new File(filePath)));
             XSSFWorkbook workbook = new XSSFWorkbook();
             SXSSFWorkbook sxssfWorkbook = new SXSSFWorkbook(workbook, 100);
-//            Workbook workbook = WorkbookFactory.create(new FileInputStream(new File(filePath)));
-            //Sheet first = sxssfWorkbook.getSheetAt(0);
+            // Workbook workbook = WorkbookFactory.create(new FileInputStream(new File(filePath)));
+            // Sheet first = sxssfWorkbook.getSheetAt(0);
             Sheet first = sxssfWorkbook.createSheet("0");
-            for (int i = 0; i < 100000; i++) {
+            for (int i = 0; i < 100000; i++)
+            {
                 Row row = first.createRow(i);
-                for (int j = 0; j < 11; j++) {
-                    if(i == 0) {
+                for (int j = 0; j < 11; j++)
+                {
+                    if (i == 0)
+                    {
                         // 首行
                         row.createCell(j).setCellValue("column" + j);
-                    } else {
+                    } else
+                    {
                         // 数据
-                        if (j == 0) {
+                        if (j == 0)
+                        {
                             CellUtil.createCell(row, j, String.valueOf(i));
                         } else
                             CellUtil.createCell(row, j, String.valueOf(Math.random()));
                     }
                 }
             }
-            
+
             SimpleDateFormat df = new SimpleDateFormat("yyyyMMddHHmmss");
-            FileOutputStream out = new FileOutputStream("D:\\workbook" + df.format(new Date()) +".xlsx");
+            FileOutputStream out = new FileOutputStream("D:\\workbook" + df.format(new Date()) + ".xlsx");
             sxssfWorkbook.write(out);
             out.close();
             sxssfWorkbook.close();

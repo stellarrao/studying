@@ -37,5 +37,6 @@
 	<classpathentry kind="lib" path="lib/xmlbeans-2.6.0.jar"/>
 	<classpathentry kind="lib" path="lib/commons-collections4-4.1.jar"/>
 	<classpathentry kind="lib" path="lib/poi-ooxml-schemas-3.17.jar"/>
+	<classpathentry kind="lib" path="lib/xlsx-streamer-1.2.1.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
