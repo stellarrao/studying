@@ -1,0 +1,1234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="135cd42d-86b0-4d00-8237-8723de425bd3" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/algorithm/chapter1/BinarySearch.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/concurrencypractice/chapter7/BrokenPrimeProducer.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/concurrencypractice/chapter7/PrimeGenerator.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/corejava/exception11/debugger/BuggyButtonFrame.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/corejava/exception11/debugger/BuggyButtonPanel$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/corejava/exception11/debugger/BuggyButtonPanel$ButtonListener.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/corejava/exception11/debugger/BuggyButtonPanel.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/corejava/exception11/debugger/BuggyButtonTest$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/corejava/exception11/debugger/BuggyButtonTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/corejava/exception11/eventTracer/EventTracer$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/corejava/exception11/eventTracer/EventTracer.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/corejava/exception11/eventTracer/EventTracerFrame.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/corejava/exception11/eventTracer/EventTracerTest$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/corejava/exception11/eventTracer/EventTracerTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/corejava/exception11/except/ExceptTest$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/corejava/exception11/except/ExceptTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/corejava/exception11/except/ExceptTestFrame.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/corejava/exception11/except/ExceptTestPanel$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/corejava/exception11/except/ExceptTestPanel$10.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/corejava/exception11/except/ExceptTestPanel$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/corejava/exception11/except/ExceptTestPanel$3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/corejava/exception11/except/ExceptTestPanel$4.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/corejava/exception11/except/ExceptTestPanel$5.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/corejava/exception11/except/ExceptTestPanel$6.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/corejava/exception11/except/ExceptTestPanel$7.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/corejava/exception11/except/ExceptTestPanel$8.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/corejava/exception11/except/ExceptTestPanel$9.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/corejava/exception11/except/ExceptTestPanel.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/corejava/exception11/exceptional/ExceptionCaughted.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/corejava/exception11/exceptional/ExceptionChecked.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/corejava/exception11/exceptional/ExceptionOverride.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/corejava/exception11/exceptional/ExceptionReturn.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/corejava/exception11/exceptional/ExceptionalTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/corejava/exception11/exceptional/SubClass.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/corejava/exception11/exceptional/SuperClass.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/corejava/exception11/logging/ImageViewerFrame$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/corejava/exception11/logging/ImageViewerFrame$FileOpenListener$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/corejava/exception11/logging/ImageViewerFrame$FileOpenListener.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/corejava/exception11/logging/ImageViewerFrame.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/corejava/exception11/logging/LoggingImageViewer$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/corejava/exception11/logging/LoggingImageViewer.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/corejava/exception11/logging/WindowHandler$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/corejava/exception11/logging/WindowHandler.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/corejava/exception11/robot/ButtonFrame$ColorAction.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/corejava/exception11/robot/ButtonFrame.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/corejava/exception11/robot/ImageFrame.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/corejava/exception11/robot/RobotTest$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/corejava/exception11/robot/RobotTest$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/corejava/exception11/robot/RobotTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/corejava/exception11/stackTrace/StackTraceTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/exceloperation/PoiMethodExcel.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/algorithm/ArraysTestSort.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/algorithm/E31GreatestSumOfSubarrays.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/algorithm/InsertionSort.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/algorithm/LinkedNodeReverse.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/algorithm/LongestPath.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/algorithm/Node.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/algorithm/Pos.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/algorithm/RemoveDuplicates.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/algorithm/TwoSum.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/basis/A.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/basis/AlarmDoor.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/basis/AnonymousClass$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/basis/AnonymousClass.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/basis/AnonymousInnerClass.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/basis/B$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/basis/B.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/basis/BitMove.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/basis/CharTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/basis/Child.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/basis/Door.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/basis/EqualsSignTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/basis/FinalTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/basis/FunOuter$1Inner.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/basis/FunOuter$1InnerTwo.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/basis/FunOuter.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/basis/IntegerTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/basis/Layer$ChildLayer.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/basis/Layer$OfficePerson.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/basis/Layer$Person$Email.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/basis/Layer$Person.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/basis/Layer.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/basis/MathTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/basis/MonitorStaticTracker.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/basis/MyClass.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/basis/Outer$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/basis/Outer$InnerOne.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/basis/Outer$InnerTwo.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/basis/Outer.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/basis/Parent.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/basis/SSClass.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/basis/ShortTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/basis/SplitString.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/basis/StaticA.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/basis/StaticB.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/basis/StaticInitalTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/basis/StaticInnerClass$1Inner2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/basis/StaticInnerClass$Inner1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/basis/StaticInnerClass$Inner3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/basis/StaticInnerClass.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/basis/StaticNested$Person.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/basis/StaticNested.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/basis/StaticNestedClasses.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/basis/SubClass.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/basis/SuperClass.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/basis/SupperGetClass.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/basis/SwitchString.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/basis/TreeSetCompareToTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/basis/TryFinallyReturn.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/basis/VariantTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/basis/VectorRidRepetition.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/collection/CollectionTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/collection/GenericTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/collection/IQueue.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/collection/LinkedListTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/collection/ListTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/collection/MyIQueue.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/collection/MyTransformer.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/collection/VectorTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/designpattern/FactoryMethod.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/designpattern/Singleton$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/designpattern/Singleton$LazyHolder.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/designpattern/Singleton.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/generics/AssginValue.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/generics/AssginValueOther.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/generics/BaseClass.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/generics/Business.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/generics/PropertyAssignValue.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/thread/AddTask.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/thread/ApplicationStartupUtil$BaseHealthChecker.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/thread/ApplicationStartupUtil$CacheHealthChecker.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/thread/ApplicationStartupUtil$DatabaseHealthChecker.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/thread/ApplicationStartupUtil$NetworkHealthChecker.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/thread/ApplicationStartupUtil.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/thread/BlockingQueueConsumer.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/thread/BlockingQueueProducer.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/thread/BlockingQueueTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/thread/BlockingThreadPoolExecutor.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/thread/Boss.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/thread/CallableFutureTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/thread/ConcurrentLinkedDequeTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/thread/Consumer.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/thread/CustomThread1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/thread/CustomThread2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/thread/CustomThreadFactory.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/thread/CustomThreadPoolExecutor.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/thread/CustomThreadStatic.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/thread/CustomThreadStatic1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/thread/DemoExecutor$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/thread/DemoExecutor.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/thread/DemoTask.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/thread/DemoThread.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/thread/Employee.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/thread/ExceptionHandler.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/thread/ExcutorUsage.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/thread/ExecutorTask.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/thread/FactorialCalculator.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/thread/Foo.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/thread/InterruptingThread.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/thread/InterruptingThread1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/thread/InterruptingThread2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/thread/InterruptingThread3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/thread/InterruptingThread4.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/thread/InterruptingThread5.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/thread/InterruptingThread6$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/thread/InterruptingThread6$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/thread/InterruptingThread6.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/thread/InterruptingThread7.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/thread/InterruptingThread8.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/thread/InterruptingThread9.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/thread/LatchThread.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/thread/MultiRunnable.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/thread/MultiSemaphorePrinterQueue.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/thread/MultiSemaphorePrintingJob.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/thread/MultiSemaphoreTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/thread/MyThread.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/thread/PipeReaderThread.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/thread/PipeWriterThread.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/thread/PipedCommunication.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/thread/PrinterQueue.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/thread/PrintingJob.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/thread/PriorityThreadTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/thread/Producer.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/thread/ReentrantLockTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/thread/RejectedExecutionHandlerImpl.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/thread/RemoveTask.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/thread/ResolveDeadLockTest$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/thread/ResolveDeadLockTest$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/thread/ResolveDeadLockTest$A.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/thread/ResolveDeadLockTest$B.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/thread/ResolveDeadLockTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/thread/RunnableClass$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/thread/RunnableClass.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/thread/ScheduledExecutorTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/thread/ScheduledTask.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/thread/SemaphorePrinterQueue.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/thread/SemaphorePrintingJob.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/thread/SemaphoreTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/thread/Shared.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/thread/StopLatchedThread.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/thread/SynchronizedStatic$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/thread/SynchronizedStatic$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/thread/SynchronizedStatic.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/thread/Task.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/thread/TestOne.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/thread/TestThree.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/thread/TestTwo.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/thread/ThreadExt.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/thread/ThreadFactoryTask.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/thread/ThreadFactoryTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/thread/ThreadLocalTask$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/thread/ThreadLocalTask$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/thread/ThreadLocalTask.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/thread/ThreadLocalTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/thread/ThreadPoolExecutorTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/thread/ThreadSuspend.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/thread/ThreadWait.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/thread/ThrottlingTaskSubmission$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/thread/ThrottlingTaskSubmission$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/thread/ThrottlingTaskSubmission.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/thread/ThrottlingThreadPoolExecutor.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/thread/UncaughtExceptionHandlerTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/thread/WaitNotifyConsumer.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/thread/WaitNotifyProducer.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/thread/WaitNotifyTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/thread/YieldJoinUsage$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/thread/YieldJoinUsage$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/interview/thread/YieldJoinUsage.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/jms/JmsReceiver.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/jms/JmsSender.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/jms/SimpleJms$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/jms/SimpleJms$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/jms/SimpleJms.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/ownutil/BitUtils.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/ownutil/ReflectionUtil.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/ownutil/SerializeUtil.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/redis/Person.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/redis/RedisClient.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/redis/RedisClientTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/spring4/aspectoriented4/Audience.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/spring4/aspectoriented4/ConcertMain.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/spring4/aspectoriented4/ConcertPerformance.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/spring4/aspectoriented4/CriticAspect.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/spring4/aspectoriented4/DefaultEncoreable.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/spring4/aspectoriented4/Encoreable.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/spring4/aspectoriented4/EncoreableIntroducer.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/spring4/aspectoriented4/IntroductionAOPTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/spring4/aspectoriented4/Performance.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/spring4/aspectoriented4/TrackCounter.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/spring4/aspectoriented4/TrackCounterTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/spring4/chapter1/BraveKnight.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/spring4/chapter1/BraveKnightTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/spring4/chapter1/DamselRescuingKnight.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/spring4/chapter1/Knight.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/spring4/chapter1/KnightMain.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/spring4/chapter1/Minstrel.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/spring4/chapter1/Quest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/spring4/chapter1/RescueDamselQuest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/spring4/chapter1/SlayDragonQuest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/spring4/config/CDPlayerConfig.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/spring4/config/ConcertConfig.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/spring4/config/KnightConfig.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/spring4/config/TrackCounterConfig.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/spring4/messaging17/AlertService.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/spring4/messaging17/AlertServiceImpl.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/spring4/messaging17/JMSMain.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/spring4/messaging17/Spitter.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/spring4/messaging17/Spittle.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/spring4/messaging17/SpittleAlertHandler.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/spring4/messaging17/SpittleJmsMain.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/spring4/test/BlankDiscTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/spring4/wiringbeans2/BlankDisc.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/spring4/wiringbeans2/CDPlayer.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/spring4/wiringbeans2/CDPlayerTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/spring4/wiringbeans2/CompactDisc.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/spring4/wiringbeans2/MediaPlayer.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/spring4/wiringbeans2/SgtPeppers.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/understandingjvm/chapter4/BTraceTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/understandingjvm/chapter4/MonitoringTest$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/understandingjvm/chapter4/MonitoringTest$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/understandingjvm/chapter4/MonitoringTest$OOMObject.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/understandingjvm/chapter4/MonitoringTest$SynAddRunnable.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/understandingjvm/chapter4/MonitoringTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/understandingjvm/chapter8/Overload.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/understandingjvm/chapter8/StaticDispatch$Human.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/understandingjvm/chapter8/StaticDispatch$Man.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/understandingjvm/chapter8/StaticDispatch$Woman.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/understandingjvm/chapter8/StaticDispatch.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/understandingjvm/chapter8/StaticResolution.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/algorithm/chapter1/1.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/studying/javaexercise/corejava/exception11/except/manifest.mf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/javaexercise/interview/generics/AssignValueNew.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/javaexercise/interview/generics/PropertyAssignValue.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/javaexercise/ownutil/ReflectionUtil.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/studying.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/javaexercise/interview/basis/StaticInitalTest.java" afterPath="$PROJECT_DIR$/src/javaexercise/interview/basis/StaticInitalTest.java" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="studying" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>ArraysPrimitive</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="HierarchyBrowserManager">
+    <option name="SORT_ALPHABETICALLY" value="true" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/javaexercise/concurrencypractice/chapter7/PrimeGenerator.java" />
+        <option value="$PROJECT_DIR$/src/javaexercise/interview/Generics/PropertyAssignValue.java" />
+        <option value="$PROJECT_DIR$/src/javaexercise/interview/generics/AssignValueNew.java" />
+        <option value="$PROJECT_DIR$/src/javaexercise/interview/basis/StaticInitalTest.java" />
+        <option value="$PROJECT_DIR$/src/javaexercise/ownutil/ReflectionUtil.java" />
+        <option value="$PROJECT_DIR$/src/javaexercise/interview/generics/PropertyAssignValue.java" />
+        <option value="$PROJECT_DIR$/src/javaexercise/corejava/generic12/pair1/Pair.java" />
+        <option value="$PROJECT_DIR$/src/javaexercise/corejava/generic12/Pair.java" />
+        <option value="$PROJECT_DIR$/src/javaexercise/corejava/generic12/pair1/PairTest1.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1456" />
+    <option name="height" value="876" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="studying" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="studying" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.splitter.proportion" value="0.27326152" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/xstream-1.4.10.jar!/" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.PairTest1">
+    <configuration default="false" name="E31GreatestSumOfSubarrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaexercise.interview.Algorithm.E31GreatestSumOfSubarrays" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="studying" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="PropertyAssignValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaexercise.interview.generics.PropertyAssignValue" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="studying" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="StaticInitalTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaexercise.interview.basis.StaticInitalTest" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="studying" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="PairTest1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaexercise.corejava.generic12.pair1.PairTest1" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="studying" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Cold Fusion runner description" factoryName="Cold Fusion" custom_browser="" web_path="">
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="studying" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <list size="4">
+      <item index="0" class="java.lang.String" itemvalue="Application.E31GreatestSumOfSubarrays" />
+      <item index="1" class="java.lang.String" itemvalue="Application.PropertyAssignValue" />
+      <item index="2" class="java.lang.String" itemvalue="Application.StaticInitalTest" />
+      <item index="3" class="java.lang.String" itemvalue="Application.PairTest1" />
+    </list>
+    <recent_temporary>
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="Application.PairTest1" />
+        <item index="1" class="java.lang.String" itemvalue="Application.PropertyAssignValue" />
+        <item index="2" class="java.lang.String" itemvalue="Application.StaticInitalTest" />
+        <item index="3" class="java.lang.String" itemvalue="Application.E31GreatestSumOfSubarrays" />
+      </list>
+    </recent_temporary>
+    <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",SHOW_NON_PUBLIC,SHOW_ANONYMOUS,ALPHA_COMPARATOR,SHOW_PROPERTIES,SHOW_INTERFACES" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329429" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329429" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32875723" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27525622" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329429" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329429" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15968208" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32947975" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32947975" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.15606937" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="JSF" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4275256" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32875723" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.43777454" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329429" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329429" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.43777454" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329429" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32875723" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329429" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27525622" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329429" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15679191" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="combo" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32947975" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32947975" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329429" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.15606937" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="JSF" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32875723" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24743778" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/javaexercise/interview/generics/PropertyAssignValue.java</url>
+          <line>37</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/javaexercise/interview/generics/PropertyAssignValue.java</url>
+          <line>35</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/javaexercise/interview/generics/PropertyAssignValue.java</url>
+          <line>67</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="6" />
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="this.getClass()" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/javaexercise/interview/generics/PropertyAssignValue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1512">
+          <caret line="71" column="0" lean-forward="false" selection-start-line="71" selection-start-column="0" selection-end-line="71" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="class#AssginValue#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaexercise/corejava/generic12/Pair.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="20" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaexercise/ownutil/ReflectionUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="15" column="20" lean-forward="false" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/java8/jdk1.8.0_60/src.zip!/java/lang/Class.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29832">
+          <caret line="1243" column="0" lean-forward="false" selection-start-line="1243" selection-start-column="0" selection-end-line="1243" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/java8/jdk1.8.0_60/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1488">
+          <caret line="62" column="23" lean-forward="false" selection-start-line="62" selection-start-column="17" selection-end-line="62" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaexercise/corejava/generic12/pair1/PairTest1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="38" lean-forward="false" selection-start-line="2" selection-start-column="38" selection-end-line="2" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaexercise/interview/generics/PropertyAssignValue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="class#AssginValue#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaexercise/ownutil/ReflectionUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="15" column="20" lean-forward="true" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/java8/jdk1.8.0_60/src.zip!/java/lang/Class.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29832">
+          <caret line="1243" column="0" lean-forward="true" selection-start-line="1243" selection-start-column="0" selection-end-line="1243" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/java8/jdk1.8.0_60/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1488">
+          <caret line="62" column="23" lean-forward="false" selection-start-line="62" selection-start-column="17" selection-end-line="62" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaexercise/interview/generics/PropertyAssignValue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="class#AssginValue#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaexercise/interview/generics/PropertyAssignValue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="class#AssginValue#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaexercise/interview/generics/PropertyAssignValue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="class#AssginValue#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaexercise/interview/generics/PropertyAssignValue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="class#AssginValue#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaexercise/interview/generics/PropertyAssignValue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="class#AssginValue#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/java8/jdk1.8.0_60/src.zip!/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaexercise/concurrencypractice/chapter7/PrimeGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1416">
+          <caret line="59" column="5" lean-forward="false" selection-start-line="59" selection-start-column="5" selection-end-line="59" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaexercise/interview/algorithm/E31GreatestSumOfSubarrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="624">
+          <caret line="26" column="34" lean-forward="true" selection-start-line="26" selection-start-column="34" selection-end-line="26" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/studying.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/java8/jdk1.8.0_60/src.zip!/java/lang/Runnable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="67" column="25" lean-forward="false" selection-start-line="67" selection-start-column="25" selection-end-line="67" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaexercise/interview/algorithm/E31GreatestSumOfSubarrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="20" column="3" lean-forward="false" selection-start-line="20" selection-start-column="3" selection-end-line="20" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaexercise/concurrencypractice/chapter7/PrimeGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/java8/jdk1.8.0_60/jre/lib/ext/sunec.jar!/source_tips">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/java8/jdk1.8.0_60/jre/lib/rt.jar!/com/sun/xml/internal/ws/api/message/HeaderList.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="24" column="15" lean-forward="false" selection-start-line="24" selection-start-column="15" selection-end-line="24" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/java8/jdk1.8.0_60/src.zip!/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="97">
+          <caret line="122" column="7" lean-forward="true" selection-start-line="122" selection-start-column="7" selection-end-line="122" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/java8/jdk1.8.0_60/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="326">
+          <caret line="287" column="5" lean-forward="true" selection-start-line="287" selection-start-column="5" selection-end-line="287" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/java8/jdk1.8.0_60/src.zip!/java/util/Objects.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3552">
+          <caret line="181" column="26" lean-forward="false" selection-start-line="181" selection-start-column="26" selection-end-line="181" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaexercise/ownutil/SerializeUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="40" column="15" lean-forward="false" selection-start-line="40" selection-start-column="15" selection-end-line="40" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/java8/jdk1.8.0_60/src.zip!/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="129" column="7" lean-forward="true" selection-start-line="129" selection-start-column="7" selection-end-line="129" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/java8/jdk1.8.0_60/src.zip!/java/util/DualPivotQuicksort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="571">
+          <caret line="1344" column="0" lean-forward="true" selection-start-line="1344" selection-start-column="0" selection-end-line="1344" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/java8/jdk1.8.0_60/src.zip!/java/util/Collections.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-17767">
+          <caret line="79" column="13" lean-forward="false" selection-start-line="79" selection-start-column="13" selection-end-line="79" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaexercise/interview/collection/GenericTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-103">
+          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaexercise/spring4/messaging17/JMSMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="38" lean-forward="false" selection-start-line="2" selection-start-column="38" selection-end-line="2" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaexercise/spring4/messaging17/SpittleJmsMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="21" column="40" lean-forward="false" selection-start-line="21" selection-start-column="40" selection-end-line="21" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/java8/jdk1.8.0_60/src.zip!/java/net/URLClassLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="317">
+          <caret line="377" column="39" lean-forward="true" selection-start-line="377" selection-start-column="39" selection-end-line="377" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaexercise/interview/generics/AssignValueNew.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="29" column="30" lean-forward="false" selection-start-line="29" selection-start-column="30" selection-end-line="29" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaexercise/interview/basis/StaticInitalTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="129">
+          <caret line="64" column="21" lean-forward="true" selection-start-line="64" selection-start-column="21" selection-end-line="64" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaexercise/ownutil/ReflectionUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="15" column="20" lean-forward="false" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaexercise/corejava/generic12/pair1/PairTest1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaexercise/interview/generics/PropertyAssignValue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="71" column="0" lean-forward="false" selection-start-line="71" selection-start-column="0" selection-end-line="71" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="class#AssginValue#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaexercise/corejava/generic12/Pair.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="6" column="20" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/java8/jdk1.8.0_60/src.zip!/java/lang/Class.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1243" column="0" lean-forward="false" selection-start-line="1243" selection-start-column="0" selection-end-line="1243" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/java8/jdk1.8.0_60/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="62" column="23" lean-forward="false" selection-start-line="62" selection-start-column="17" selection-end-line="62" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>studying</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>lib</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

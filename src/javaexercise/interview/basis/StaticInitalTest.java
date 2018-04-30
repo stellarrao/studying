@@ -45,11 +45,26 @@ public class StaticInitalTest
     public static void main(String[] args)
     {
         //System.out.println(SubClass.a);
-        new StaticInitalTest().test();
-        
+        //new StaticInitalTest().test();
+        new StaticB();
     }
     
     public void test() {
         System.out.println(this.staticValue);
     }
+}
+class StaticA {
+    public StaticA(){
+        System. out.println("I am A" );
+    }
+    {System. out.println("A");}
+    static{System.out .println("static A");}
+}
+
+class StaticB  extends  StaticA{
+    public StaticB(){
+        System. out.println("I am B" );
+    }
+    {System. out.println("B" );}
+    static{System.out .println("static B");}
 }
